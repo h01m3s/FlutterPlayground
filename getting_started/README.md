@@ -1,6 +1,6 @@
 # getting_started
 
-A new Flutter project.
+A new Flutter project that renders a list view
 
 ## Getting Started
 
